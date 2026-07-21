@@ -19,7 +19,7 @@ metadata:
     short: GA
 assets:
   parts:
-  - {seq: 0, filename: KR6v0510_000-GA.yaml, hash: 'sha256:89272c6c65673df018102c049393597e4c84f9d57049b11ad453a91464855b13'}
+  - {seq: 0, filename: KR6v0510_000-GA.yaml, hash: 'sha256:94cbf80a7c183f32613a13ded9bf8055a5e8defb55a43127afb392386207198a'}
   - {seq: 1, filename: KR6v0510_001-GA.yaml, hash: 'sha256:ceb6cbc8f78419c385b841fb73d2483681571c7595647efb6cd7d0ce85083c0e'}
   - {seq: 2, filename: KR6v0510_002-GA.yaml, hash: 'sha256:42fd73cc7bcb2b13ad90a35e655129944a7ca008e0cff68665a54156c02866c6'}
   - {seq: 3, filename: KR6v0510_003-GA.yaml, hash: 'sha256:3bb347c808ff21c77095405e91ac780b9dad0f91226bd308156903f2fd223ec9'}
@@ -27,7 +27,7 @@ assets:
   - {seq: 5, filename: KR6v0510_005-GA.yaml, hash: 'sha256:ea730c301190b631c345b09fce07449e957e9e18639b82435dc70e4ee631ee60'}
   - {seq: 6, filename: KR6v0510_006-GA.yaml, hash: 'sha256:f0eca47c2be795622c898b07a57674bd23cdb84e61d9ce0d5780057e76029ae7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0510_000-GA.markers.yaml, hash: 'sha256:7f76e8fa18c2a1e9f5859c319fdf2ca5f4e0f87d7431292a06737ba76a465071'}
+  - {seq: 0, role: markers, filename: assets/KR6v0510_000-GA.markers.yaml, hash: 'sha256:1fb840aba429b3bc4eb857f53cdb3588d08cdb72c662aa5fae5216992cc29f29'}
   - {seq: 1, role: markers, filename: assets/KR6v0510_001-GA.markers.yaml, hash: 'sha256:369984aa9e22af35118709c9f812047bacc39a8760ef21a6b0895214116cb4d1'}
   - {seq: 2, role: markers, filename: assets/KR6v0510_002-GA.markers.yaml, hash: 'sha256:5163dbbea02e3eeb158b4968432cda86da2102c58576c664df348095229f33dc'}
   - {seq: 3, role: markers, filename: assets/KR6v0510_003-GA.markers.yaml, hash: 'sha256:775af96881a6e06e9e6e09c0f1aca40fa6f2442dc07bbbf2ec98fd8486800e8d'}
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0510_GA_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 版本說明
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0510_GA_000-mulu-2
     span:
-    - front
+    - body
     - 540
     - 540
   label: 賜額
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0510_GA_000-mulu-3
     span:
-    - front
+    - body
     - 548
     - 548
   label: 卷首
@@ -69,7 +69,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0510_GA_000-mulu-4
     span:
-    - front
+    - body
     - 548
     - 548
   label: 序
@@ -79,7 +79,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0510_GA_000-mulu-5
     span:
-    - front
+    - body
     - 1062
     - 1062
   label: 岳林寺志序
@@ -89,7 +89,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0510_GA_000-mulu-6
     span:
-    - front
+    - body
     - 1566
     - 1566
   label: 目錄
@@ -99,7 +99,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0510_GA_000-mulu-7
     span:
-    - front
+    - body
     - 1614
     - 1614
   label: 寺圖
@@ -109,7 +109,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0510_GA_000-mulu-8
     span:
-    - front
+    - body
     - 1622
     - 1622
   label: 岳林圖說
@@ -2415,4 +2415,4 @@ table_of_contents:
   label: 後序
   type: mulu
   level: 1
-hash: sha256:aa34854ba50be5ae82aa93d9bdd1d6a8b912d04a4d87029c037141ad96400760
+hash: sha256:23e170b2e617c008f30282fac57552823dd9897d90fb43e581df08065d1b0793
